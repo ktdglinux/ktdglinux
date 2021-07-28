@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kel from Singapore
 - 👀 I’m interested in learning new stuff pertaining to engineering, programming and vision
-- 🌱 I’m currently learning about robotics
+- 🌱 I’m currently learning about python
 - 💞️ I’m looking to collaborate on various fun project especially trying to learn how to program with python
 - 📫 How to reach me through PM
 
